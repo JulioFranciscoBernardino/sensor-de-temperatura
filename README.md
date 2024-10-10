@@ -1,0 +1,1 @@
+# sensor-de-temperatura
